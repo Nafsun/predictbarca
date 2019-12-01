@@ -1,0 +1,1 @@
+<script type="text/javascript">location.href = "../barcelona-news.php";</script>
