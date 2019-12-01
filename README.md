@@ -3,13 +3,13 @@ Predictbarca is a platform that provides you with all the latest Barcelona news,
 
 <br>
 <p>Login Page of Predict Barca</p>
-<img src="https://github.com/Nafsun/predictbarca/tree/master/images/predictbarca-loginpage.png" alt="Predict Barca Loginpage">
+<img src="https://github.com/Nafsun/predictbarca/blob/master/images/predictbarca-loginpage.png" alt="Predict Barca Loginpage">
 <br>
 <p>Users Account of Predict Barca</p>
-<img src="https://github.com/Nafsun/predictbarca/tree/master/images/predictbarca-account.png" alt="Predict Barca User Account Page">
+<img src="https://github.com/Nafsun/predictbarca/blob/master/images/predictbarca-account.png" alt="Predict Barca User Account Page">
 <br>
 <p>News Page of Predict Barca</p>
-<img src="https://github.com/Nafsun/predictbarca/tree/master/images/predictbarca-latest-news.png" alt="Predict Barca News page">
+<img src="https://github.com/Nafsun/predictbarca/blob/master/images/predictbarca-latest-news.png" alt="Predict Barca News page">
 <br>
 <h3>If you want to be able to add, update and delete content from the website, goto admin/ folder and you will be able to do so.</h3>
 <p>Inside the admin page, you can uoload images and videos, create a new page for latest barcelona news, post barcelona matches to allow fans to predict, post barcelona scores, live score anouncement, commentary and much more</p>
